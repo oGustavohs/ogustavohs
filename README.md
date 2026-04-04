@@ -1,8 +1,8 @@
-<img align="left" height="131" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW45OGtzdnl6dW9wenVpNm9lMGgwOWxqd2k5a25hOGZ4Zmd5ZjZyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif"  />
+<img align="left" height="131" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVpa296MXlnNWNrYzF2amFoOGlmdmxnNWd0MGlncWx4cDF4dzF4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" alt="Imagem pinguin" />
 
 ###
 
-<h1 div align="left">>Gustavo Henrique</h1>
+<h1 div align="left">Gustavo Henrique</h1>
 
 ###
 
