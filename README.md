@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Imagem pinguin" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNndyNmRta2w3OHZjMjR4bnkwdDRxdWdndW80cDh6Y2ttOHVnaWJuNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" alt="Imagem pinguin" />
 
 
 <h1>Gustavo Henrique</h1>
