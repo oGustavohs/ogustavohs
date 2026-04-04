@@ -25,15 +25,16 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/gustavo-henrique-3916ba297/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/gustavo-henrique-3916ba297/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="50" alt="linkedin logo" />
   </a>
-  <a href="https://ogustavohs.github.io/Portifolio/" target="_top">
-    <img src="https://img.shields.io/static/v1?message=Portifolio&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="codepen logo"  />
+
+  <a href="https://ogustavohs.github.io/Portifolio/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Portifolio&logo=codepen&color=000000&logoColor=white&style=for-the-badge" height="50" alt="codepen logo" />
   </a>
-  <a href="https://discord.gg/5dweusdV" target="_self">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="discord logo"  />
+
+  <a href="https://discord.gg/5dweusdV" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="50" alt="discord logo" />
   </a>
 </div>
-
 ###
