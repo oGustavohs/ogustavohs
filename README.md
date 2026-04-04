@@ -1,4 +1,4 @@
-<img align="left" height="131" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVpa296MXlnNWNrYzF2amFoOGlmdmxnNWd0MGlncWx4cDF4dzF4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" alt="Imagem pinguin" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVpa296MXlnNWNrYzF2amFoOGlmdmxnNWd0MGlncWx4cDF4dzF4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" alt="Imagem pinguin" />
 
 ###
 
