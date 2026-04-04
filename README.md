@@ -1,4 +1,4 @@
-<img align="left" height="131" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge"  />
+<img align="left" height="131" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW45OGtzdnl6dW9wenVpNm9lMGgwOWxqd2k5a25hOGZ4Zmd5ZjZyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif"  />
 
 ###
 
