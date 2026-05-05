@@ -29,7 +29,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
   </a>
   <a href="https://ogustavohs.github.io/Front-End-Developed/" target="_blank">
-    <img src="https://www.flaticon.com/br/icone-gratis/pasta-de-portfolio_6517215?term=portf%C3%B3lio&page=1&position=87&origin=tag&related_id=6517215" height="50" alt="codepen logo"  />
   </a>
  
 </div>
