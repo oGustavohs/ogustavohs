@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
   </a>
   <a href="https://ogustavohs.github.io/Portifolio/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portifolio&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="codepen logo"  />
+    <img src="https://ogustavohs.github.io/Front-End-Developed/" height="50" alt="codepen logo"  />
   </a>
  
 </div>
