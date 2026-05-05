@@ -31,9 +31,7 @@
   <a href="https://ogustavohs.github.io/Portifolio/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portifolio&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="codepen logo"  />
   </a>
-  <a href="https://discord.gg/5dweusdV" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="discord logo"  />
-  </a>
+ 
 </div>
 
 ###
